@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Kodehode&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richi-Kodehode&layout=compact)
 
 "Full Stack-utvikler i opplæring – lidenskapelig, nysgjerrig og i konstant utvikling
 
